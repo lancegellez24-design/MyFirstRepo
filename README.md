@@ -7,6 +7,7 @@ int main()
 {
     open_window("Hello Window", 800, 600); // bigger window
     write_line("Hello, world!");
+    #i made changes
     return 0;
 }
 
